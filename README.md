@@ -1,5 +1,10 @@
 # Demo Link
+
 https://jitin-angular-todo.netlify.app/
+
+## Screenshot 
+
+https://github.com/jitinfullstack/angular-todos-app/blob/master/Todos-App.png
 
 # TodosApp
 
