@@ -4,8 +4,6 @@ https://jitin-angular-todo.netlify.app/
 
 ## Screenshot 
 
-https://github.com/jitinfullstack/angular-todos-app/blob/master/Todos-App.png
-
 ![Todos-App](https://user-images.githubusercontent.com/93995641/141672099-181d9fb5-6cf8-48a7-bf4b-7cd55f0022d0.png)
 
 # TodosApp
